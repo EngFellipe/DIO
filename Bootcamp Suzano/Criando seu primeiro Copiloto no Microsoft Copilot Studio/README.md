@@ -16,7 +16,6 @@ Ajudar um público-alvo ex.: colaboradores da área de qualidade, clientes inter
 3. Dependendo da resposta do usuário, o fluxo segue por diferentes caminhos
 
 ## 📸 Imagens
-(Adicione aqui capturas de tela dos tópicos, fluxos ou testes realizados)
 
 ![alt text](image.png)
 
