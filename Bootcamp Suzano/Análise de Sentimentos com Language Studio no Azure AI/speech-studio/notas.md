@@ -8,7 +8,7 @@
 
 Este documento apresenta os principais insights obtidos a partir do exemplo real de reconhecimento de fala usando o Azure Speech Studio com um arquivo de áudio no formato `.opus`.
 
-![alt text]("Conversão de fala em texto em tempo real".png)
+![alt text](Conversão_de_fala_em_texto_em_tempo_real.png)
 
 ## 1. Precisão do Reconhecimento
 
