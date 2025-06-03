@@ -1,4 +1,4 @@
-# Azure AI Lab
+# Desafio Análise de Sentimentos com Language Studio no Azure AI
 
 Este repositório contém anotações, testes e aprendizados práticos adquiridos durante a exploração das ferramentas **Azure Speech Studio** e **Azure Language Studio**. O objetivo é desenvolver habilidades em soluções de inteligência artificial voltadas para a análise de fala e linguagem natural.
 
