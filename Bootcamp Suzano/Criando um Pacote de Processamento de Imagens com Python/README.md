@@ -33,15 +33,16 @@ Esse projeto surgiu como exercício prático para aplicar os conceitos de **modu
 git clone https://github.com/seuusuario/whatsapp_stickerizer.git
 cd whatsapp_stickerizer
 pip install .
+```
 
-# Uso em script Python
+## Uso em script Python
 
 from whatsapp_stickerizer.converter import imagem_para_sticker
 
 imagem_para_sticker("sua_imagem.jpg", "figurinha.webp")
 
 
-💡 Etapas da Elaboração
+## 💡 Etapas da Elaboração
 
     1. Estruturação do projeto com base no template simple-package-template
 
@@ -56,8 +57,8 @@ imagem_para_sticker("sua_imagem.jpg", "figurinha.webp")
     6 .Preparação para publicação no Test PyPI / PyPI oficial
 
 
-📁 Estrutura do Projeto
-
+## 📁 Estrutura do Projeto
+```text
 whatsapp_stickerizer/
 │
 ├── whatsapp_stickerizer/
